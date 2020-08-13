@@ -1,0 +1,57 @@
+ Time =   8.47974E+06
+ Fraction done =        0.1695948428568962
+           0 out of           20 still active 
+ 
+ Planet : 
+       #          a                e             i 
+        2         0.7233         0.0275         3.2824
+        3         1.0000         0.0266         0.5178
+        4         1.5236         0.0185         3.0076
+        5         5.2021         0.0490         1.7876
+        6         9.5753         0.0478         1.1570
+        7        19.1268         0.0654         2.6499
+        8        30.1438         0.0078         1.5536
+ 
+ Active Particles : 
+        #          a                 e            i             q              Q 
+ 
+ Discarded Particles :           20 out of           20
+ 
+      #     why?  Last pl      a           q           Q             i
+               encountered 
+      1     -3      5    2958.5815       3.2992    5913.8638      11.9156
+      2     -4      3       2.3744       0.0044       4.7444      55.9662
+      3     -4      2       2.3501       0.0037       4.6965      38.1560
+      4     -4      2       2.3738       0.0046       4.7431      19.3288
+      5     -2      5     513.5222      -4.4754    1031.5198      12.4012
+      6     -4      3       2.4592       0.0038       4.9147      15.7427
+      7     -4      5       2.5245       0.0045       5.0446       2.7394
+      8     -4      2       2.1087       0.0044       4.2131      21.5294
+      9     -4      3       2.1705       0.0046       4.3364      35.1308
+     10     -4      2       2.2734       0.0046       4.5422      40.7691
+     11     -4      3       2.3103       0.0044       4.6161      17.1679
+     12     -4      2       2.3498       0.0045       4.6952       3.9905
+     13     -4      4       2.3085       0.0045       4.6125      20.3669
+     14      2      2       6.8013       0.7231      12.8795       3.8945
+     15      3      3       0.8126       0.5918       1.0335      12.6539
+     16     -4      3       2.3945       0.0040       4.7850      36.8374
+     17     -4      3       2.3579       0.0046       4.7112       8.6483
+     18     -4      3       2.3997       0.0040       4.7954      26.8056
+     19     -3      5     920.1584      -6.2253    1846.5421       6.4017
+     20     -4      3       2.3777       0.0040       4.7514      27.2818
+ 
+ Fate of Discarded Particles : 
+     0 have istat(i,2) = -1  ==> Danby did not converge 
+     1 have istat(i,2) = -2  ==> Ejected from the system 
+     2 have istat(i,2) = -3  ==> Too far from the Sun 
+    15 have istat(i,2) = -4  ==> Too small a perihelion 
+     0 have istat(i,2) =  1  ==> Too close to the Sun 
+     1 have istat(i,2) =  2  ==> Too close to planet 2
+     1 have istat(i,2) =  3  ==> Too close to planet 3
+     0 have istat(i,2) =  4  ==> Too close to planet 4
+     0 have istat(i,2) =  5  ==> Too close to planet 5
+     0 have istat(i,2) =  6  ==> Too close to planet 6
+     0 have istat(i,2) =  7  ==> Too close to planet 7
+     0 have istat(i,2) =  8  ==> Too close to planet 8
+   --- 
+    20/  20
